@@ -1,4 +1,3 @@
-# Code_Alpha_Snake_Game
 # Snake Game in Python
 
 ## Introduction:
